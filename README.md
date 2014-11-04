@@ -1,6 +1,6 @@
-<h2>Setup Scripts</h2>
+<h3>Setup Scripts</h3>
 
-<h3>Notes:<h3>
+<h4>Notes:<h4>
 
 These scripts are meant for storage and easy recall of project setups. 
 
